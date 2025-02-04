@@ -1278,7 +1278,7 @@ GameObject:
   - component: {fileID: 1227277092}
   - component: {fileID: 1227277091}
   m_Layer: 0
-  m_Name: Exit Doorway  (3)
+  m_Name: Wall 4
   m_TagString: TriggerObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1714,7 +1714,7 @@ GameObject:
   - component: {fileID: 1733633426}
   - component: {fileID: 1733633425}
   m_Layer: 0
-  m_Name: Exit Doorway  (1)
+  m_Name: Wall 1
   m_TagString: TriggerObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1853,7 +1853,7 @@ GameObject:
   - component: {fileID: 1863257457}
   - component: {fileID: 1863257456}
   m_Layer: 0
-  m_Name: Exit Doorway  (2)
+  m_Name: Wall 3
   m_TagString: TriggerObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2323,7 +2323,7 @@ GameObject:
   - component: {fileID: 2046701904}
   - component: {fileID: 2046701903}
   m_Layer: 0
-  m_Name: Exit Doorway  (4)
+  m_Name: Wall 2
   m_TagString: TriggerObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
